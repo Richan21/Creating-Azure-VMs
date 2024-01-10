@@ -1,3 +1,4 @@
+![image](https://github.com/Richan21/Creating-Azure-VMs/assets/153684298/138c0f09-ef88-4935-8546-39ed71ab07b1)
 
 <h1>Creating-Azure-VMs</h1>
 The guide outlines setting up a Security Operations Center (SOC) and Honeynet on Azure, emphasizing effective monitoring, incident response, and honeypot deployment to bolster your organization's resilience against cyber threats <br />
