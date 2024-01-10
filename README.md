@@ -1,14 +1,14 @@
 ![image](https://github.com/Richan21/Creating-Azure-VMs/assets/153684298/138c0f09-ef88-4935-8546-39ed71ab07b1)
 
 <h1>Creating-Azure-VMs</h1>
-The guide outlines setting up a Security Operations Center (SOC) and Honeynet on Azure, emphasizing effective monitoring, incident response, and honeypot deployment to bolster your organization's resilience against cyber threats <br />
+The Lab guide outlines setting up a Virtual Machine (VM) using Microsoft Azure.<br />
 
 
 ## Prerequisites
 1. Create an Azure Subscription to access the Azure Platform. This comes with an initial $200 credit for new accounts.
 
 <h2>Environments and Technologies Used</h2>
-(NOTE: I was able to set up the entire project on both my IPAD Pro 2020 and desktop running Windows 10)
+(NOTE: I was able to set up the entire project on both my IPAD Pro 2020 and Desktop
 
 - Microsoft Azure (Virtual Machines/Compute)
 
@@ -47,3 +47,7 @@ The guide outlines setting up a Security Operations Center (SOC) and Honeynet on
 ![image](https://github.com/Richan21/How-to-Implement-a-SOC-in-AZURE/assets/153684298/86d47af9-28ed-4f5e-8a35-af6967915736)
 ![image](https://github.com/Richan21/How-to-Implement-a-SOC-in-AZURE/assets/153684298/d023c5c1-b66f-4317-ba99-851b2891776f)
 ![image](https://github.com/Richan21/How-to-Implement-a-SOC-in-AZURE/assets/153684298/726c6b5a-c4dc-4e49-ab78-d130428e5d8c)
+
+## Note
+- Configuration: The configurations set for this VM creating Lab will not work for eveything. Please adjust variables and configurate settings to fit your needs.
+  
